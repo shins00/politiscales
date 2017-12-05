@@ -82,7 +82,7 @@ t:
       
       help_communism2: <b>Capitalism</b> is also an ambivalent concept. In this test a majority for capitalism simply signifies that you are supportive of private ownership of the means of production.
       
-      help_regulationism1: This axis represents the attitude you believe a government needs to have in the case of a market economy in which an important part of the means of production are privately owned. Liberals and keynesians are supportive of the idea that governments need to adopt methods that impede upon the free market, as long as they don't call capitalism into question. If you are more capitalist, this axis represents your goal in terms of economic policy. If you are more communist, this axis represents the least harmful policy that you can expect of the current system.
+      help_regulationism1: This axis represents the attitude you believe a government needs to have in the case of a market economy in which an important part of the means of production are privately owned. Liberals and Keynesians disagree about which methods governments need to adopt and how far these should impede upon the free market, as long as they don't call capitalism into question. If you are more capitalist, this axis represents your goal in terms of economic policy. If you are more communist, this axis represents the least harmful policy that you can expect of the current system.
       
       help_regulationism2: <b>Regulationism</b> or interventionism is an idea in which the economic activity should be regulated for the common interest. It can be through legislation, state planning, subventions, variable taxation...
       
@@ -104,7 +104,7 @@ t:
       quiz_btn_no1: Absolutely disagree
       quiz_btn_back_q: Return to the previous question
       quiz_btn_back_i: Go back to home page
-      quiz_btn_random: See a random result
+      quiz_btn_random: See a randomised profile
       quiz_question_counter: Question %num% on %sum%
       
       result_title: Results
@@ -246,7 +246,7 @@ t:
       share_twitter: "Mon résultat sur #PolitiScales : %slogan%"
 
    de_DE:
-      header_desc: PolitiScales ist ein politischer Test mit 8 ideologischen Achsen, das ihnen hilft, sich im politischen Umfeld einzuordnen, oder einfach um Ihr Profil mit Freunden zu teilen.
+      header_desc: PolitiScales ist ein politischer Test mit 8 ideologischen Achsen, das ihnen hilft, sich im politischen Umfeld einzuordnen, oder einfach Ihr Profil mit Freunden zu teilen.
       footer: PolitiScales ist eine Initiative des <a href="http://www.la-commune.net">Discords « La Commune »</a> (Die Kommune) inspiriert von <a href="https://8values.github.io/">8values</a>.
       
       constructivism: Konstruktivismus
@@ -284,47 +284,47 @@ t:
       help_whois: Wer sind wir ?
       help_desc: PolitiScales ist ein politischer Test, welches sie auf 8 ideologischen Achsen einordnet, um Ihr politisches Profil zu erstellen, das Sie anschließend mit Freunden teilen können. Diese Webseite ist eine Initiative des Discords « La Commune » inspiriert von <a href="https://8values.github.io/">8values</a>.
       help_constructivism1: Warum sind Menschen so wie sie sind ?  Der Konstruktivismus und der Essentialismus bilden zwei gegensätzliche Ansätze, auch wenn sie die gleiche Frage beantworten. 
-      help_constructivism2: Die <b>Konstruktivisten</b> schätzen, dass ein Individuum in einer bedingten Gesellschaft sich sozial konstruiert, und dass seine bestehenden Eigenschaften erworben sind.
-      help_constructivism3: Dagegen gehen die <b>Essentialisten</b> davon aus, dass ein Individuum durch seine Gene und Natur bestimmt ist. Das bedeutet, dass seine bestehenden Eigenschaften angeboren sind.
+      help_constructivism2: Die <b>Konstruktivisten</b> schätzen, dass ein Individuum in einer bedingten Gesellschaft sich sozial konstruiert, und dass die Eigenschaften, die es definieren, erworben sind.
+      help_constructivism3: Dagegen gehen die <b>Essentialisten</b> davon aus, dass Gene und Natur ein Individuum zu dem machen, das es ist. Das bedeutet, dass die definierenden Eigenschaften einer Person angeboren sind.
       help_justice1: Die Anhänger der <b>Resozialisierungsjustiz </b> sind überzeugt, Urteile sollten nicht dafür gedacht sein, Menschen zu verletzen, sondern den Verurteilten zu helfen, indem die Justiz sie auf den rechten Weg begleitet.
-      help_justice2: Stattdessen behaupten die Anhänger der <b>Vergeltungsjustiz</b>, die Urteile sollten nur ein Abschreckungsmittel sein, um Verbrechen zu verhindern. So hilft man, laut den Befürwortern, ein System welches den Verbrechern hilft indem es sie vom Rezidivismus abschreckt, und zugleich den Bürgern hilft, da weniger sich trauen, Straftaten zu begehen.  
+      help_justice2: Stattdessen behaupten die Anhänger der <b>Vergeltungsjustiz</b>, die Urteile sollten in erster Linie ein Abschreckungsmittel sein, um Verbrechen zu verhindern. So hilft man, laut den Befürwortern, ein System welches den Verbrechern hilft indem es sie vom Rezidivismus abschreckt, und zugleich den braven Bürgern hilft, da weniger sich trauen, Straftaten zu begehen.  
       help_progressism1: Die <b>Progressisten</b> streben immer nach sozialen Fortschritt, um die Gesellschaft zu verbessern. Sie achten wenig auf Tradition und finden, dass es Heute besser ist als damals, und es in Zukunft vielleicht noch besser sein könnte.
       help_progressism2: Die <b>Konservativen</b> bevorzugen den sog. Status Quo. Manchmal fordern sie sogar eine Rückkehr zu (oder den Schutz von) bestimmten Werten, die bedroht sind oder in der Vergangenheit liegen. Diese können religiös, oder auch historisch geprägt sein.
-      help_internationalism1: Der <b> Internationalismus</b> beinhaltet viele Ideenströmungen, die in bestimmten Zielen übereinstimmen : Kooperation zwischen Ländern, ohne das eigene Land vorteilhaft zu sehen und behandeln. Die Menschen und Bevölkerungen verschiedener Nationen werden nicht hierarchisch gesehen, sondern als gleich wichtig. Zum Extrem gezogen, fordern manche Internationalisten eine vollständige Abschaffung aller Grenzen."
+      help_internationalism1: Der <b> Internationalismus</b> beinhaltet viele Ideenströmungen, die in bestimmten Zielen übereinstimmen : Kooperation zwischen Ländern, ohne das eigene Land vorteilhaft zu sehen und behandeln. Die Menschen und Bevölkerungen verschiedener Nationen werden nicht hierarchisch gesehen, sondern als gleich wichtig. Eine der extremeren Ideen ist die Forderung mancher Internationalisten, eine alle Grenzen vollständig abzuschaffen."
       help_internationalism2: Die <b>Nationalisten</b> streben nach dem Wohlsein des eigenen Staates und dessen Bevölkerung. Sie streben nach der Erhaltung einer nationalen Identität. Ihre Interessen sind national zentriert und rechtfertigen die Schaffung eines Staates für ein bestimmtes Volk.
-      help_communism1: Der <b>Kommunismus</b> ist ein sehr politisches, breites Feld. Dieses Experiment illustriert nur, dass Sie für die Aufhebung des Privatseingentum im Rahmen der Produktionsmittel sind.
-      help_communism2: Der <b>Kapitalismus</b> ist ein ambivalentes Konzept. Dieses Experiment illustriert nur, dass Sie gegen die Aufhebung des Privatseingentum im Rahmen der Produktionsmittel sind.
-      help_regulationism1: Diese Achse stellt die wirtschaftliche Haltung des Staates dar, welche die Marktwirtschaft beeinflusst. In diesem Modell sind die Produktionsmittel mehrheitlich privatisiert. Liberale und Keynesianer streiten sich darüber, welche Methode für den Kapitalismus übernommen wird. Wenn Sie eher ein Kapitalist sind, schildert diese Achse Ihren Arbeitsmethodenunterschied. Sie sind ein Kommunist. Dann bildet diese Achse die Hoffnung, dass ein von den beiden Methoden nicht so schädlich ist.
-      help_regulationism2: Die <b>soziale Marktwirtschaft</b> setzt eine gewisse Regulierung der Wirtschaft durch den Staat voraus, weil jedes Individuum von der Wirtschaft profitieren darf und kann. Man kann dies erreichen, indem Maßnahmen wie zum Beispiel Planung, Gesetze, Förderung oder auch unterschiedliche Versteuerungsquoten durchsetzt werden. 
-      help_regulationism3: Dagegen ist das sog. <b>laissez-faire</b> eine wirtschaftliche Doktrine, die ausdrücklich gegen die Verwickelung des Staates in der Wirtschaft ist, weil diese Letzte das gemeinsame Interesse abzielt. Dies lässt sich anhand einer schwachen Gesetzgebung, einer schwachen Versteurungsquote bis zur Abschaffung der Rolle des Staates in der Witschaft erklären.
-      help_ecology2: Der <b>Produktivismus</b> kümmert sich um die menschlichen Bedürfnisse. Der Produktivismus lässt sich durch die Steigerung der Produktion oder der Benutzung von technischen Mitteln veranschaulichen, die die Umwelt gefährdren oder zerstören können.
-      help_revo1: Die <b>Revolutionäre</b> fordern eine direkte Handlung, um die politische Ordnung am Rande der Legalität neu und radikal umzugestalten. (Guerilla, Bürgerkriege,...)
-      help_revo2: Die <b>Reformisten</b> wollen legal und Schritt für Schritt die Gesellschaft umwandeln. (Institutionen, Wahlen, Gesuche, legale Demonstrationen,...)
+      help_communism1: Der <b>Kommunismus</b> ist ein sehr politisch breites Feld. In diesem Test illustriert dieser Wert nur, dass Sie dafür sind, die Produktionsmittel ins öffentliche Eigentum zurückzukehren, sei es staatlich oder kollektiv.
+      help_communism2: Der <b>Kapitalismus</b> ist ebenfalls ein ambivalentes Konzept. In diesem Test bedeutet es nur, dass Sie gegen die Aufhebung des Privatseingentum der Produktionsmittel sind.
+      help_regulationism1: Diese Achse stellt dar, welche die ideale wirtschaftliche Haltung des Staates in ihrer Meinung wäre, wenn es um die Marktwirtschaft geht. In diesem Modell wird angenommen, dass die Produktionsmittel zum Großteil privatisiert sind. Liberale und Keynesians streiten sich darüber, welche Methoden notwendig sind, wobei sie Kapitalismus niemals in Frage stellen. Wenn Sie eher für den Kapitalismus sind, deutet diese Achse an, welche Vorgehensweise sie bevorzugen. Wenn sie ein Kommunist sind, dann zeigt diese Achse lediglich, welche der beiden Vorgehensweisen sie als weniger schädlich sehen.
+      help_regulationism2: Die <b>Marktregulierung</b> setzt eine gewisse Regulierung der Wirtschaft durch den Staat voraus, weil jedes Individuum von der Wirtschaft profitieren dürfen und können sollte. Befürworter glauben, man könne dies erreichen, indem man Maßnahmen wie zum Beispiel Planung, Gesetze, Subventionen oder auch anpassbare Steuern durchsetzt. 
+      help_regulationism3: Dagegen ist das sog. <b>laissez-faire</b> eine wirtschaftliche Doktrine, die ausdrücklich gegen die Einschreitung des Staates in der Wirtschaft ist, weil diese von selbst her auf das gemeinsame Interesse abzielt. Praktisch verlangen Befürworter Sachen wie eine schwachen Gesetzgebung, niedrige Steuern, bis hin zur Abschaffung der Rolle des Staates in der Wirtschaft.
+      help_ecology2: Der <b>Produktivismus</b> kümmert sich hauptsächlich um die menschlichen Bedürfnisse. Der Produktivismus lässt sich anhand des Verlangens nach einer Steigerung der Produktion oder der Benutzung von technischen Mitteln erkennen, welche die Gefährdung oder Zerstörung der Umwelt in Kauf nehmen.
+      help_revo1: Die <b>Revolutionären</b> meinen, Direkte Aktion wäre der beste Weg, die politische Ordnung neu und radikal umzugestalten. Diese Aktionen sind oft am Rande der Legalität, und werden von den gegenwärtigen Institutionen kaum akzeptiert.
+      help_revo2: Die <b>Reformisten</b> wollen legal und Schritt für Schritt die Gesellschaft umwandeln. Dafür nutzen sie die gegebenen Institutionen, Wahlen, Gesuche, und legale Demonstrationen.
       
       quiz_loading: Es lädt...
       quiz_btn_yes1: Stimme voll zu
       quiz_btn_yes0: Stimme etwas zu
       quiz_btn_neutral: Weder noch
-      quiz_btn_no0: Lehne etwas ab
-      quiz_btn_no1: Lehne ganz ab
+      quiz_btn_no0: Eher dagegen
+      quiz_btn_no1: Vollkommen dagegen
       quiz_btn_back_q: Zurück zur vorherigen Frage
       quiz_btn_back_i: Zurück zur Startseite 
-      quiz_btn_random: Ein zufallsbedingtes Experiment
+      quiz_btn_random: Ein zufälliges Profil zeigen
       quiz_question_counter: Frage %num% von %sum%
       
       result_title: Ergebnisse
       result_special: zusätzliche Eigenschaften
-      result_desc: Ihr PolitiScalesergebnis ist in 8 Achsen verteilt. Jede Achse zeigt Ihre Positionierung zwischen den gegensätzlichen Ideologien an. Spezifizierungen können das Ergebnis ergänzen. Diese werden am Seitenende angezeigt. Für weitere Informationen über die verschiedenen Achsen <a href="help.html"> schlagen Sie die Hilfe </a> nach."
-      result_anarchism: "<b>Anarchismus : </b>Wenn das Volk niedergeschlagen wird, ist es nicht schlimmer den Staat selbst niederzuschlagen, weil der Staat eine Unterdrückung ist, die vernichtet werden muss."
-      result_pragmatism: "<b>Pragmatismus : </b>Die Politik befasst sich mit der Betrachtung, woran Probleme liegen können, und wie sie anhand der verfügbaren Mittel geregelt werden können. Hier ist das Motto : Betriebsverwaltung."
-      result_feminism: "<b>Radikaler Feminismus : </b>Das Gender muss verschwinden, damit das Patriarchat hingerichtet werden kann."
-      result_complotism: "<b>Konspirationismus : </b>Die Probleme unserer Gesellschaft sind das Ergebnis einer Splittergruppe. Sie muss entdeckt werden, die Öffententlichkeit muss aufgeklärt werden. Schließlich muss die Splittergruppe beseigtigt werden."
-      result_veganism: "<b>Vegan : </b>Die Menschen müssen den Verbrauch und die Ausnutzung von Tieren abbrechen."
-      result_monarchism: "<b>Monarchismus : </b>Die Gesellschaft müsste durch die Herrschaft eines Königs organisiert werden. "
-      result_religion: "<b>Missionieren : </b>Ihrer Meinung nach ist Religion sehr wichtig, insbesondere Ihre Religion. Es ist dann angemessen sie auf die ganze Welt zu verbreiten."
-      result_btn_redo: Das Experiment neu beginnen.
+      result_desc: Ihr PolitiScalesergebnis ist in 8 Achsen eingeteilt. Jede Achse zeigt Ihre Position zwischen zwei gegensätzlichen Ideologien an. Spezifizierungen können das Ergebnis ergänzen. Diese werden am Seitenende angezeigt. Für weitere Informationen über die verschiedenen Achsen <a href="help.html"> lesen Sie die Hilfeseite </a> nach."
+      result_anarchism: "<b>Anarchismus : </b>Wenn das Volk vom Staat niedergeschlagen wird, hilft es ihnen nicht, dass der Staat "Volksstaat" heißt. Staaten sind Instrumente der Unterdrückung, die abgeschafft werden müssen."
+      result_pragmatism: "<b>Pragmatismus : </b>Politik sollte objektiv schauen, woran Probleme liegen können, und wie sie anhand der verfügbaren Mittel gelöst werden können. Hier ist das Motto : Praktisch, nicht ideologisch."
+      result_feminism: "<b>Radikaler Feminismus : </b>Geschlecht als Konstrukt muss verschwinden, damit die Patriarchie gestürzt werden kann."
+      result_complotism: "<b>Konspirationismus : </b>Die Probleme unserer Gesellschaft sind das Ergebnis der Pläne einer kleinen Gruppe, die die Welt aus dem Verborgenen lenkt. Sie muss entdeckt werden, und die Öffententlichkeit muss aufgeklärt werden. Schließlich muss die Gruppe beseigtigt werden."
+      result_veganism: "<b>Vegan : </b>Menschen müssen den Verzehr und die Ausbeutung von Tieren beenden."
+      result_monarchism: "<b>Monarchismus : </b>Unsere Gesellschaft sollte mit Hilfe der Herrschaft eines Königs bzw. einer Königin organisiert werden. "
+      result_religion: "<b>Missionär : </b>Ihrer Meinung nach ist Religion sehr wichtig, vor allem Ihre eigene Religion. Es ist also angebracht, sie so weit wie möglich in der Welt zu verbreiten."
+      result_btn_redo: Den Test neu beginnen.
       
-      slogan_constructivism: Geichstellung
+      slogan_constructivism: Gleichheit
       slogan_internationalism: Menschlichkeit
       slogan_nationalism: Vaterland
       slogan_communism: Sozialismus
@@ -333,7 +333,7 @@ t:
       slogan_conservatism: Familie
       slogan_justice_soft: Gerechtigkeit
       slogan_justice_hard: Ordnung
-      slogan_ecology: Umweltfreundlichkeit
+      slogan_ecology: Umwelt
       slogan_revo: Revolution
       
       share_facebook: "Mein Ergebnis auf #PolitiScales : %slogan%"
